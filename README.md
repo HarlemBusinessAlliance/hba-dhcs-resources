@@ -27,3 +27,9 @@ Tutorials/Games
 - Flexboxfroggy - https://flexboxfroggy.com
 - CSS Grid Garden - https://cssgridgarden.com
 
+
+### JavaScript Resources
+
+Introduction & Guides
+
+ - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
