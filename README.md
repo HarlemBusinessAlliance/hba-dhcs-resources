@@ -13,7 +13,8 @@ References
 Tutorials 
 
 - Tutorials Point - https://www.tutorialspoint.com/html/
-- 
+- "Let's Chat About Restaurants, Part 1" - https://docs.google.com/document/d/1N-0KwY6jQ3_Qvfbvb3U4CnZlKkfZwkMeAuyoeHTheNQ/edit
+- "Let's Chat About Restaurants, Part 2" - https://docs.google.com/document/d/1m9P0YebW_7asaPqOmN6NdMd0WwHunVru_PpclB9b9Ao/edit
 
 
 
@@ -30,6 +31,5 @@ Tutorials/Games
 
 ### JavaScript Resources
 
-Introduction & Guides
+Introduction & Guides - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
- - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
