@@ -32,8 +32,13 @@ Tutorials/Games
 ### JavaScript Resources
 
 Introduction & Guides - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+Try jQuery - http://try.jquery.com/
+
 
 
 ### Helpful Web Tools
-- caniuse? -- https://caniuse.com
-- 
+- caniuse? - https://caniuse.com
+
+### Miscellaneous Resource
+- Try Git - https://www.codeschool.com/courses/try-git
+- Discover Devtools - https://www.codeschool.com/courses/discover-devtools
