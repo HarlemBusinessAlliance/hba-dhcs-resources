@@ -16,9 +16,6 @@ Tutorials
 - "Let's Chat About Restaurants, Part 1" - https://docs.google.com/document/d/1N-0KwY6jQ3_Qvfbvb3U4CnZlKkfZwkMeAuyoeHTheNQ/edit
 - "Let's Chat About Restaurants, Part 2" - https://docs.google.com/document/d/1m9P0YebW_7asaPqOmN6NdMd0WwHunVru_PpclB9b9Ao/edit
 
-
-
-
 ### CSS Resources
 
 
@@ -33,11 +30,12 @@ Tutorials/Games
 
 Introduction & Guides - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 Try jQuery - http://try.jquery.com/
-
+Javascript Is Sexy - http://javascriptissexy.com
 
 
 ### Helpful Web Tools
-- caniuse? - https://caniuse.com
+- caniuse? - https://caniuse.com - Determine if a web feature is available on a browser.
+- builtwith - https://builtwith.com - List the technologies used by a specific website.
 
 ### Miscellaneous Resource
 - Try Git - https://www.codeschool.com/courses/try-git
