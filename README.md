@@ -25,6 +25,7 @@ Tutorials/Games
 - Flexboxfroggy - https://flexboxfroggy.com
 - CSS Grid Garden - https://cssgridgarden.com
 - CSS Reference - https://cssreference.io
+- CSS Grid Layout Tutorial Videos - https://gridbyexample.com/video
 
 ### JavaScript Resources
 
