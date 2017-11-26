@@ -38,6 +38,12 @@ Javascript Is Sexy - http://javascriptissexy.com
 - caniuse? - https://caniuse.com - Determine if a web feature is available on a browser.
 - builtwith - https://builtwith.com - List the technologies used by a specific website.
 
+
+### Command Line Tutorials/Utilities
+
+- Learn Enough Command Line To Be Dangerous - https://www.learnenough.com/command-line-tutorial
+- TLDR.sh - http://tldr.sh/
+
 ### Miscellaneous Resource
 - Try Git - https://www.codeschool.com/courses/try-git
 - Discover Devtools - https://www.codeschool.com/courses/discover-devtools
