@@ -47,3 +47,9 @@ Javascript Is Sexy - http://javascriptissexy.com
 ### Miscellaneous Resource
 - Try Git - https://www.codeschool.com/courses/try-git
 - Discover Devtools - https://www.codeschool.com/courses/discover-devtools
+
+### Git Tools
+- Pushing to Git from the Command Line - https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+- Gitready - http://gitready.com
+- Pro Git - https://git-scm.com/book/en/v2
+- Oh Shit Git - http://ohshitgit.com/
